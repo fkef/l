@@ -1,0 +1,35 @@
+
+
+html{ background-color: pink;}
+
+a:link{
+
+color: green;
+padding: 30px 35px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border: 3px solid white;
+}
+hr{border: 1px solid white;}
+h1{ text-align: center;
+    
+    font-family: Verdana, sans-serif; }
+
+img{
+
+    width: 500px;
+
+}
+
+video{
+    width: 1000px;
+    align-items: last baseline;
+    float: left;
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+}table {
+    width: 20%;
+  }
